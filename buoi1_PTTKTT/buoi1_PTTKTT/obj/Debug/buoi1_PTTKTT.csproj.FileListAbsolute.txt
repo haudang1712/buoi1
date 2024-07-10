@@ -1,0 +1,6 @@
+E:\LuuDuLieuSinhVien\d\buoi1_PTTKTT\buoi1_PTTKTT\bin\Debug\buoi1_PTTKTT.exe.config
+E:\LuuDuLieuSinhVien\d\buoi1_PTTKTT\buoi1_PTTKTT\bin\Debug\buoi1_PTTKTT.exe
+E:\LuuDuLieuSinhVien\d\buoi1_PTTKTT\buoi1_PTTKTT\bin\Debug\buoi1_PTTKTT.pdb
+E:\LuuDuLieuSinhVien\d\buoi1_PTTKTT\buoi1_PTTKTT\obj\Debug\buoi1_PTTKTT.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\d\buoi1_PTTKTT\buoi1_PTTKTT\obj\Debug\buoi1_PTTKTT.exe
+E:\LuuDuLieuSinhVien\d\buoi1_PTTKTT\buoi1_PTTKTT\obj\Debug\buoi1_PTTKTT.pdb
